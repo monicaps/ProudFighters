@@ -1,0 +1,28 @@
+{
+    "anims": [
+        {
+            "key": "flama_arde",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "flama",
+                    "frame": "flame_2"
+                },
+                {
+                    "key": "flama",
+                    "frame": "flame_1"
+                },
+                {
+                    "key": "flama",
+                    "frame": "flame_2"
+                },
+                {
+                    "key": "flama",
+                    "frame": "flame_3"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "anims": [
+        {
+            "key": "pl_paradofrente",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 1,
+            "frames": [
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_0"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_0"
+                }
+            ]
+        },
+        {
+            "key": "pl_paradoatras",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 1,
+            "frames": [
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_16"
+                }
+            ]
+        },
+        {
+            "key": "pl_paradoizquierda",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 1,
+            "frames": [
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_6"
+                }
+            ]
+        },
+        {
+            "key": "pl_paradoderecha",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 1,
+            "frames": [
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_11"
+                }
+            ]
+        },
+        {
+            "key": "pl_caminafrente",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_2"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_0"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_5"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_0"
+                }
+            ]
+        },
+        {
+            "key": "pl_caminaizquierda",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_7"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_6"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_8"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_6"
+                }
+            ]
+        },
+        {
+            "key": "pl_caminaderecha",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_12"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_11"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_15"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_11"
+                }
+            ]
+        },
+        {
+            "key": "pl_celebra",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 3,
+            "frames": [
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_1"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_0"
+                }
+            ]
+        },
+        {
+            "key": "pl_att_frente",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 20,
+            "frames": [
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_4"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_3"
+                }
+            ]
+        },
+        {
+            "key": "pl_att_atras",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 20,
+            "frames": [
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_19"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_18"
+                }
+            ]
+        },
+        {
+            "key": "pl_att_izq",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 20,
+            "frames": [
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_10"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_9"
+                }
+            ]
+        },
+        {
+            "key": "pl_att_der",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 20,
+            "frames": [
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_14"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_13"
+                }
+            ]
+        },
+        {
+            "key": "pl_caminaatras",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_17"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_16"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_20"
+                },
+                {
+                    "key": "pl",
+                    "frame": "peleador_legendario_16"
+                }
+            ]
+        }
+    ]
+}

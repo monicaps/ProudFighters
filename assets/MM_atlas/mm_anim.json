@@ -1,0 +1,48 @@
+{
+    "anims": [
+        {
+            "key": "mm_saludo",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 7,
+            "frames": [
+                {
+                    "key": "mm",
+                    "frame": "maestro_monje_0_2"
+                },
+                {
+                    "key": "mm",
+                    "frame": "maestro_monje_0_3"
+                }
+            ]
+        },
+        {
+            "key": "mm_negar",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "mm",
+                    "frame": "maestro_monje_0_4"
+                },
+                {
+                    "key": "mm",
+                    "frame": "maestro_monje_0_5"
+                }
+            ]
+        },
+        {
+            "key": "mm_parado",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 1,
+            "frames": [
+                {
+                    "key": "mm",
+                    "frame": "maestro_monje_0_1"
+                }
+            ]
+        }
+    ]
+}

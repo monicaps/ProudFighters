@@ -1,0 +1,48 @@
+{
+    "anims": [
+        {
+            "key": "me_guinio",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 3,
+            "frames": [
+                {
+                    "key": "me",
+                    "frame": "maestra_espadachina_0_1"
+                },
+                {
+                    "key": "me",
+                    "frame": "maestra_espadachina_0_2"
+                }
+            ]
+        },
+        {
+            "key": "me_riendo",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 7,
+            "frames": [
+                {
+                    "key": "me",
+                    "frame": "maestra_espadachina_0_3"
+                },
+                {
+                    "key": "me",
+                    "frame": "maestra_espadachina_0_4"
+                }
+            ]
+        },
+        {
+            "key": "me_parada",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 1,
+            "frames": [
+                {
+                    "key": "me",
+                    "frame": "maestra_espadachina_0_1"
+                }
+            ]
+        }
+    ]
+}

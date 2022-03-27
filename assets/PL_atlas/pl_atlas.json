@@ -1,0 +1,281 @@
+{
+    "frames": [
+        {
+            "filename": "peleador_legendario_0",
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_1",
+            "frame": {
+                "x": 75,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_2",
+            "frame": {
+                "x": 149,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_3",
+            "frame": {
+                "x": 223,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_4",
+            "frame": {
+                "x": 297,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_5",
+            "frame": {
+                "x": 371,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_6",
+            "frame": {
+                "x": 445,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_7",
+            "frame": {
+                "x": 519,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_8",
+            "frame": {
+                "x": 593,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_9",
+            "frame": {
+                "x": 667,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_10",
+            "frame": {
+                "x": 741,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_11",
+            "frame": {
+                "x": 815,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_12",
+            "frame": {
+                "x": 889,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_13",
+            "frame": {
+                "x": 963,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_14",
+            "frame": {
+                "x": 1037,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_15",
+            "frame": {
+                "x": 1111,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_16",
+            "frame": {
+                "x": 1185,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_17",
+            "frame": {
+                "x": 1259,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_18",
+            "frame": {
+                "x": 1333,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_19",
+            "frame": {
+                "x": 1407,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "peleador_legendario_20",
+            "frame": {
+                "x": 1481,
+                "y": 1,
+                "w": 72,
+                "h": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
